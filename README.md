@@ -28,3 +28,13 @@ Ollama (local server on port 11434)
 C# HttpClient for API communication
 
 JSON serialization via System.Text.Json
+
+Intructions
+ - Install Ollama
+ - Get phi3 model
+  ollama pull phi3:mini
+ -Run model on Local
+  ollama run phi3:mini
+ -Run project
+  dotNet run
+-Enjoy the free chat!
