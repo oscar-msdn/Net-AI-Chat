@@ -21,7 +21,7 @@ Easy to extend with custom logic (logging, memory, context, etc.).
 
 Technical Stack:
 
-.NET 8.0 (Console App)
+.NET 9.0 (Console App)
 
 Ollama (local server on port 11434)
 
